@@ -19,3 +19,5 @@ Use JDK 17 and Android SDK 35, then run `./gradlew assembleControllerDebug assem
 ## GitHub Actions
 
 Pushes to `main` build both APK variants and publish them as separate downloadable workflow artifacts. See the Actions tab for the latest successful run.
+
+CI uses Android SDK platform 35 and build-tools 35.0.0.
